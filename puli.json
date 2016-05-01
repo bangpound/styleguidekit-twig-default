@@ -1,0 +1,11 @@
+{
+    "name": "pattern-lab/styleguidekit-twig-default",
+    "version": "1.0",
+    "bindings": {
+        "3e14662d-3dfa-4ebc-8d81-5d8427665120": {
+            "_class": "Puli\\Discovery\\Binding\\ResourceBinding",
+            "query": "/views{,/**/*}",
+            "type": "pattern-lab/styleguidekit"
+        }
+    }
+}
